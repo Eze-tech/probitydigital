@@ -1,2 +1,1 @@
 # probitydigital
- author-image.jpg
